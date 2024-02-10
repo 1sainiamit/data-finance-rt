@@ -21,7 +21,7 @@ const Navbar = () => {
       </ul>
 
       <div className="block md:hidden" onClick={handleNav}>
-        {!nav ? <IoClose size={20} /> : <TiThMenu size={20} />}
+        {!nav ? <TiThMenu size={20} /> : <IoClose size={20} />}
       </div>
 
       <div
