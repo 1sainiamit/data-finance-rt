@@ -11,7 +11,12 @@ const Navbar = () => {
 
   return (
     <div className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
-      <h1 className="w-full text-3xl font-bold text-[#00df9a]">Pakistan</h1>
+      <img
+  src="/logo.png"   // put your logo path here
+  alt="Logo"
+  className="h-10 w-auto"
+/>
+
       <ul className="hidden md:flex">
         <li className="p-4">Home</li>
         <li className="p-4">Company</li>
