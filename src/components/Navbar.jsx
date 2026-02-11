@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
       <img
-  src="https://www.logologo.com/logos/lion-logo-simple-line-art-free-logo.jpg"   // put your logo path here
+  src="https://png.pngtree.com/png-vector/20230420/ourmid/pngtree-dc-batman-logo-symbol-of-superhero-comic-cartoon-symbol-vector-png-image_51620966.jpg"   // put your logo path here
   alt="Logo"
   className="h-10 w-auto"
 />
