@@ -12,9 +12,9 @@ const Navbar = () => {
   return (
     <div className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
       <img
-  src="https://png.pngtree.com/png-vector/20230420/ourmid/pngtree-dc-batman-logo-symbol-of-superhero-comic-cartoon-symbol-vector-png-image_51620966.jpg"   // put your logo path here
+  src="https://1000logos.net/wp-content/uploads/2016/11/Facebook-Logo-2019.png"   // put your logo path here
   alt="Logo"
-  className="h-10 w-auto"
+  className="h-14 w-auto"
 />
 
       <ul className="hidden md:flex">
