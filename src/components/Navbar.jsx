@@ -11,11 +11,12 @@ const Navbar = () => {
 
   return (
     <div className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
-      <img
+      {/* <img
   src="https://www.logologo.com/logos/lion-logo-simple-line-art-free-logo.jpg"   // put your logo path here
   alt="Logo"
   className="h-14 w-auto"
-/>
+/> */}
+      <h1>Pakistan</h1>
 
       <ul className="hidden md:flex">
         <li className="p-4">Home</li>
