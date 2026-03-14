@@ -19,7 +19,7 @@ const Navbar = () => {
       <h1>Pakistan</h1>
 
       <ul className="hidden md:flex">
-        <li className="p-4">Home</li>
+        <li className="p-4">Hacked</li>
         <li className="p-4">Company</li>
         <li className="p-4">Resources</li>
         <li className="p-4">About</li>
@@ -40,10 +40,10 @@ const Navbar = () => {
         <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">REACT.</h1>
 
         <ul className="uppercase p-4">
-          <li className="p-4 border-b border-b-gray-600">Home</li>
+          <li className="p-4 border-b border-b-gray-600">Hacked</li>
           <li className="p-4 border-b border-b-gray-600">Company</li>
           <li className="p-4 border-b border-b-gray-600">Resources</li>
-          <li className="p-4 border-b border-b-gray-600">About</li>
+          <li className="p-4 border-b border-b-gray-600">Pakistan</li>
           <li className="p-4">Contact</li>
         </ul>
       </div>
