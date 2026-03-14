@@ -22,16 +22,16 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF_DEkzigYscAUMDlnWTcccV_dloh30FPhg&s" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/r5WhcJU3Y5LmjTTehZxNn8K2JRvBUOxIeimWLJrnkpc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1X2Vn/ZWxqMi9zdHlsZXMv/YmFubmVyQmFja2dy/b3VuZEltYWdlX3Fk/czlyeWtjc2R6ZjEu/cG5n" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="" className="h-8 w-auto" />
+          <img src="https://i.redd.it/tp7pcwe86hdd1.png" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/207NW6uQeGg42pqmqk5lzuwYGFmMO_AfUiVf3tOU-fU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1wc2QvZWRp/dGFibGUtZHVzdHkt/dGV4dC1lZmZlY3Rf/MTI1NTQwLTY1OTku/anBn" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNn-dM5WeCjQKcr9ZlRT3WLbMkJEQkyO4UQ&s" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/GKWvadFm9pEdjhSFgmsUdWpRzJEN85PWLFToRP3oZQ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWdud29ya3Bs/YW4uY29tL21lZGlh/L3BhZ2VzL3JlYWQv/c2lnbmFnZS1hbmQt/Y29sb3ItY29udHJh/c3QvOWIwOTdjNDc1/OS0xNzIyMzU4MDU1/L2FydGh1ci1wYXNz/aW5pLWNvbG9yLXdh/eWZpbmRpbmctMDIu/cG5n" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
