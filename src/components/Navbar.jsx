@@ -25,10 +25,10 @@ const Navbar = () => {
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF_DEkzigYscAUMDlnWTcccV_dloh30FPhg&s" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbQ-e7P8B1cS_96Emg2odA0pHe3lAD1LeNA&s" alt="Company" className="h-8 w-auto" />
+          <img src="https://i.redd.it/tp7pcwe86hdd1.png" alt="Company" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://phlearn.com/wp-content/uploads/2021/07/Fill-Text-with-Image-Tutorial-Image.jpg?quality=99" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/va0UWc86edy1H4h41oNazdJmJKw1N-ITbQSAuXAg8Ro/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9zaHV0dGVy/c3RvY2svcGhvdG9z/LzIyMTMzMjU3NTUv/ZGlzcGxheV8xNTAw/L3N0b2NrLXBob3Rv/LWdydW5nZS1iYWNr/Z3JvdW5kLXRleHR1/cmUtZGlydHktc3Bs/YXNoLXBhaW50ZWQt/d2FsbC1hYnN0cmFj/dC1zcGxhc2hlZC1h/cnQtY29uY3JldGUt/d2FsbC13aGl0ZS0y/MjEzMzI1NzU1Lmpw/Zw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNn-dM5WeCjQKcr9ZlRT3WLbMkJEQkyO4UQ&s" alt="Blog" className="h-8 w-auto" />
