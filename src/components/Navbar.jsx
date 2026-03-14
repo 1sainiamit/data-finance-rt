@@ -25,10 +25,10 @@ const Navbar = () => {
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF_DEkzigYscAUMDlnWTcccV_dloh30FPhg&s" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://i.redd.it/tp7pcwe86hdd1.png" alt="Company" className="h-8 w-auto" />
+          <img src="" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/207NW6uQeGg42pqmqk5lzuwYGFmMO_AfUiVf3tOU-fU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1wc2QvZWRp/dGFibGUtZHVzdHkt/dGV4dC1lZmZlY3Rf/MTI1NTQwLTY1OTku/anBn" alt="Resources" className="h-8 w-auto" />
+          <img src="" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNn-dM5WeCjQKcr9ZlRT3WLbMkJEQkyO4UQ&s" alt="Blog" className="h-8 w-auto" />
