@@ -10,26 +10,37 @@ const Navbar = () => {
   };
 
   return (
-    <div className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
+    <nav className="flex text-white items-center h-24 max-w-[1240px] mx-auto px-4 justify-between">
+      
+      {/* Main Logo */}
       <img
-  src="https://www.logologo.com/logos/lion-logo-simple-line-art-free-logo.jpg"   // put your logo path here
-  alt="Logo"
-  className="h-14 w-auto"
-/>
-      <h1>Pakistan</h1>
+        src="https://www.logologo.com/logos/lion-logo-simple-line-art-free-logo.jpg"
+        alt="Logo"
+        className="h-14 w-auto"
+      />
 
-      <ul className="hidden md:flex">
-        <li className="p-4">Hacked</li>
-        <li className="p-4">Company</li>
-        <li className="p-4">Resources</li>
-        <li className="p-4">About</li>
-        <li className="p-4">Contact</li>
+      {/* Desktop Menu */}
+      <ul className="hidden md:flex items-center">
+        <li className="p-4">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwF_DEkzigYscAUMDlnWTcccV_dloh30FPhg&s" alt="About" className="h-8 w-auto" />
+        </li>
+        <li className="p-4">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbQ-e7P8B1cS_96Emg2odA0pHe3lAD1LeNA&s" alt="Company" className="h-8 w-auto" />
+        </li>
+        <li className="p-4">
+          <img src="https://phlearn.com/wp-content/uploads/2021/07/Fill-Text-with-Image-Tutorial-Image.jpg?quality=99" alt="Resources" className="h-8 w-auto" />
+        </li>
+        <li className="p-4">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYNn-dM5WeCjQKcr9ZlRT3WLbMkJEQkyO4UQ&s" alt="Blog" className="h-8 w-auto" />
+        </li>
       </ul>
 
+      {/* Mobile Menu Icon */}
       <div className="block md:hidden" onClick={handleNav}>
         {!nav ? <TiThMenu size={20} /> : <IoClose size={20} />}
       </div>
 
+      {/* Mobile Menu */}
       <div
         className={
           nav
@@ -37,17 +48,15 @@ const Navbar = () => {
             : "fixed left-[-100%]"
         }
       >
-        <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">REACT.</h1>
+        <img
+          src="https://www.logologo.com/logos/lion-logo-simple-line-art-free-logo.jpg"
+          alt="Logo"
+          className="h-14 m-4"
+        />
 
-        <ul className="uppercase p-4">
-          <li className="p-4 border-b border-b-gray-600">Hacked</li>
-          <li className="p-4 border-b border-b-gray-600">Company</li>
-          <li className="p-4 border-b border-b-gray-600">Resources</li>
-          <li className="p-4 border-b border-b-gray-600">Pakistan</li>
-          <li className="p-4">Contact</li>
-        </ul>
+       <ul className="uppercase p-4"> <li className="p-4 border-b border-b-gray-600">About</li> <li className="p-4 border-b border-b-gray-600">Company</li> <li className="p-4 border-b border-b-gray-600">Resources</li> <li className="p-4 border-b border-b-gray-600">Pakistan</li> <li className="p-4">Contact</li> </ul>
       </div>
-    </div>
+    </nav>
   );
 };
 
