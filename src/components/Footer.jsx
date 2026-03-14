@@ -16,8 +16,8 @@ const Footer = () => {
 
         {/* Images Section */}
         <div className="flex gap-4 py-4">
-          <img src="https://elements.envato.com/graphics/noise+background" alt="img1" className="w-10 h-10 object-cover"/>
-          <img src="https://www.reddit.com/r/EnglishLearning/comments/1e73fon/is_there_a_word_for_when_theres_too_much_noise/" alt="img2" className="w-10 h-10 object-cover"/>
+          <img src="https://imgs.search.brave.com/Yw_DgrkbZ2wlriEGuz5mswLNsqA32VwYTqq3DV4-rKY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9iLnRo/dW1icy5yZWRkaXRt/ZWRpYS5jb20vcnl6/b1Y2SzlzWG5zaGJI/UWtxYy0xM2VuSGhn/RjA0b0tpZW9oSXNH/bDBmcy5qcGc" alt="img1" className="w-10 h-10 object-cover"/>
+          <img src="https://imgs.search.brave.com/LD_ADiQvwiPv7KzMpCJGnT4aeDrgT2A6kXhV0lq9mA4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jdXR0/aW5nZWRnZXByLmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAx/NS8wMS9UZXh0LUNN/WUstY29sb3ItY29t/YmluYXRpb24tV2lr/aXBlZGlhLmpwZw" alt="img2" className="w-10 h-10 object-cover"/>
           <img src="https://ocr.space/ocrapi" alt="img3" className="w-10 h-10 object-cover"/>
           <img src="https://www.reddit.com/r/language/comments/18bku9a/what_is_written_here/" className="w-10 h-10 object-cover"/>
           <img src="IMAGE_URL_5" alt="img5" className="w-10 h-10 object-cover"/>
