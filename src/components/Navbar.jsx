@@ -22,16 +22,16 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/r5WhcJU3Y5LmjTTehZxNn8K2JRvBUOxIeimWLJrnkpc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1X2Vn/ZWxqMi9zdHlsZXMv/YmFubmVyQmFja2dy/b3VuZEltYWdlX3Fk/czlyeWtjc2R6ZjEu/cG5n" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/JW-KS8XqujCFAVmBkp3ZRDAAXGd7E8b3lBtDQGbNc2w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS12ZWN0b3Iv/ZWRpdGFibGUtdGV4/dC1lZmZlY3QtbWVy/cnktY2hyaXN0bWFz/LTNkLW5ldy15ZWFy/LWZvbnQtc3R5bGVf/MzE0NjE0LTUzNjAu/anBnP3NlbXQ9YWlz/X2h5YnJpZCZ3PTc0/MCZxPTgw" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://i.redd.it/tp7pcwe86hdd1.png" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/C9JCif3zEhiZpIDVaj_v1w77AZOJ-53YTk9UGUCxbRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jb2Vo/LnVjZGF2aXMuZWR1/L3NpdGVzL2cvZmls/ZXMvZGd2bnNrMzEx/L2ZpbGVzL3N0eWxl/cy9zZl9sYW5kc2Nh/cGVfMTZ4OS9wdWJs/aWMvbWVkaWEvaW1h/Z2VzL05vaXNlJTIw/UG9sbHV0aW9uJTIw/SGVybyUyMEJhbm5l/ciUyMChXZWJzaXRl/KS5wbmc_aD0xMjVh/NThhZSZpdG9rPXI0/XzFJWThs" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/207NW6uQeGg42pqmqk5lzuwYGFmMO_AfUiVf3tOU-fU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1wc2QvZWRp/dGFibGUtZHVzdHkt/dGV4dC1lZmZlY3Rf/MTI1NTQwLTY1OTku/anBn" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/3u3cibSEPWw0t_dP9JzHiY6x9ci8bZXjuNXSAzMKc5s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzgwLzhm/LzBjLzgwOGYwY2E3/YzQ4M2I1MmU0MDY1/ZDM4ZDdiNjgwYjY0/LmpwZw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/GKWvadFm9pEdjhSFgmsUdWpRzJEN85PWLFToRP3oZQ4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGVzaWdud29ya3Bs/YW4uY29tL21lZGlh/L3BhZ2VzL3JlYWQv/c2lnbmFnZS1hbmQt/Y29sb3ItY29udHJh/c3QvOWIwOTdjNDc1/OS0xNzIyMzU4MDU1/L2FydGh1ci1wYXNz/aW5pLWNvbG9yLXdh/eWZpbmRpbmctMDIu/cG5n" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/XxjXbsZlIJO78WPQrXVHWPlmHohsO0eqlP0s_FHOzQY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzY5LzJi/L2MzLzY5MmJjM2Vk/ZDVmMmIyN2ZjOTcx/MmFiOTY4NDFkYmVj/LmpwZw" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
