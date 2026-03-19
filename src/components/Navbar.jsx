@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://thumbs.dreamstime.com/b/you-have-been-hacked-wallpaper-you-have-been-hacked-wallpaper-d-rendering-200375866.jpg?w=992"
+        src="https://m.media-amazon.com/images/I/51pcROeDxRL._UF1000,1000_QL80_.jpg?w=992"
         alt="Logo"
         className="h-14 w-auto"
       />
