@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://m.media-amazon.com/images/I/51pcROeDxRL._UF1000,1000_QL80_.jpg?w=992"
+        src="https://imgs.search.brave.com/tmyXa7cUAHPAxt0RVdJ0_asRD3oU_POk-djRWRrzT84/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYWtp/c3Rhbi1mbGFnLXRl/eHR1cmUtcGFraXN0/YW4tZmxhZy10ZXh0/dXJlLTM5MjExMzQz/Ni5qcGc?w=992"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,7 +22,7 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://t4.ftcdn.net/jpg/17/32/25/51/360_F_1732255115_V9H5mDKLIgARIdDfMQh2htqUAZiimX2M.jpg" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/i1uuHvJU04TWDBU7mDYDesjZ6-Zf-5WXgpY418ysx1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY3Jv/bGxkcm9sbC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDUvTmFyZW5kcmEt/TW9kaS1NZW1lcy0x/NC5qcGc" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imagesvs.oneindia.com/img/2014/09/14-hindi-600.jpg" className="h-8 w-auto" />
