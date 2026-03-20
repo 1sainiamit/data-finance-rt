@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/tmyXa7cUAHPAxt0RVdJ0_asRD3oU_POk-djRWRrzT84/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9wYWtp/c3Rhbi1mbGFnLXRl/eHR1cmUtcGFraXN0/YW4tZmxhZy10ZXh0/dXJlLTM5MjExMzQz/Ni5qcGc?w=992"
+        src="https://www.researchgate.net/profile/Dau-Hoang/publication/328630017/figure/fig1/AS:687690433458176@1540969584080/A-web-page-was-defaced-by-the-Anonymous-hacker-group-3.jpg?w=992"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -25,7 +25,7 @@ const Navbar = () => {
           <img src="https://imgs.search.brave.com/i1uuHvJU04TWDBU7mDYDesjZ6-Zf-5WXgpY418ysx1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY3Jv/bGxkcm9sbC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDUvTmFyZW5kcmEt/TW9kaS1NZW1lcy0x/NC5qcGc" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imagesvs.oneindia.com/img/2014/09/14-hindi-600.jpg" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/Aeb2tcIaXtRLRCMzNwQdfAEjXTznj6D78ngX1NM34S8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi95b3Ut/aGF2ZS1iZWVuLWhh/Y2tlZC1oYWNrZXIt/YXR0YWNrLWluZm9y/bWF0aW9uLW1lc3Nh/Z2Utc2NyZWVuLTE4/NDU2MTU0NC5qcGc" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://www.optilingo.com/wp-content/uploads/2020/09/690232_OptiLingoHindiAlphabet_v2_Opt2_041520-1-1002x1536-1.png" alt="Resources" className="h-8 w-auto" />
