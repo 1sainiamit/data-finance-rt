@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://www.researchgate.net/profile/Dau-Hoang/publication/328630017/figure/fig1/AS:687690433458176@1540969584080/A-web-page-was-defaced-by-the-Anonymous-hacker-group-3.jpg?w=992"
+        src="https://imgs.search.brave.com/s6e_CoBxm-lSUU-nFX1HXnC_syznScaXFMer-mrOI24/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS12/ZWN0b3IveW91LWhh/dmUtYmVlbi1oYWNr/ZWQtdGV4dC0yNjBu/dy0xNDY2NTMwMzEz/LmpwZw"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,7 +22,7 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/i1uuHvJU04TWDBU7mDYDesjZ6-Zf-5WXgpY418ysx1U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zY3Jv/bGxkcm9sbC5jb20v/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDUvTmFyZW5kcmEt/TW9kaS1NZW1lcy0x/NC5qcGc" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/gstCiwpweKOyeH2uz0Z62ehcJv1tn5JGHso9yR3YpdE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS9tOUlF/ZU5GLnBuZw" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imgs.search.brave.com/Aeb2tcIaXtRLRCMzNwQdfAEjXTznj6D78ngX1NM34S8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi95b3Ut/aGF2ZS1iZWVuLWhh/Y2tlZC1oYWNrZXIt/YXR0YWNrLWluZm9y/bWF0aW9uLW1lc3Nh/Z2Utc2NyZWVuLTE4/NDU2MTU0NC5qcGc" className="h-8 w-auto" />
