@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/lvl3Bk30Py0pkkUpxGLBB-dLYaKLeFdfwY3PHo-CBVU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzAyLzU0LzQyLzI5/LzM2MF9GXzI1NDQy/Mjk5M19EM2NFTTZW/TkdiSXRRbURRaU1h/Mk5mMmc3NkY2S0Rs/Ty5qcGc"
+        src="https://imgs.search.brave.com/n4rHlK5l_WNreGKelOakCsIqFFUpwSV1-NWh-taNaKY/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbHVz/LnVuc3BsYXNoLmNv/bS9wcmVtaXVtX3Bo/b3RvLTE2NzU4NzU0/ODc2ODktYzhiM2Rj/YjRiMjc5P2ZtPWpw/ZyZxPTYwJnc9MzAw/MCZhdXRvPWZvcm1h/dCZmaXQ9Y3JvcCZp/eGxpYj1yYi00LjEu/MCZpeGlkPU0zd3hN/akEzZkRCOE1IeHpa/V0Z5WTJoOE5YeDhj/R0ZyYVhOMFlXNGxN/akJtYkdGbmZHVnVm/REI4ZkRCOGZId3c"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,7 +22,7 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/7YLQrz2KndoWzrLDKYEgOZUhI1BB6dJM7XdQZ9C9H74/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jeWJl/cnNlY3VyaXR5dmVu/dHVyZXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIxLzAz/L3N5c3RlbS1oYWNr/ZWQuanBn" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/25v6rpIIySksRm0HH1V9jdwWR-ualgdNGv-6vmp9gWM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYWNr/ZWQtdGFibGV0LWNv/bXB1dGVyLWNvbXB1/dGVycy13aWxsLWJl/Y29tZS1ncmVhdC10/YXJnZXQtdG8taW50/ZXJuZXQtaGFja2Vy/cy1jcmltaW5hbHMt/MzgyOTg1NDUuanBn" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imgs.search.brave.com/Aeb2tcIaXtRLRCMzNwQdfAEjXTznj6D78ngX1NM34S8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi95b3Ut/aGF2ZS1iZWVuLWhh/Y2tlZC1oYWNrZXIt/YXR0YWNrLWluZm9y/bWF0aW9uLW1lc3Nh/Z2Utc2NyZWVuLTE4/NDU2MTU0NC5qcGc" className="h-8 w-auto" />
