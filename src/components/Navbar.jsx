@@ -31,7 +31,7 @@ const Navbar = () => {
           <img src="https://media.istockphoto.com/id/1437997089/vector/indian-languages-word-cloud-vector-illustration.jpg?s=612x612&w=0&k=20&c=JWzmnXCUJj925PmLNc-1MIYhN19-sf8eAO7Onbl6paA=" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://www.optilingo.com/wp-content/uploads/2020/09/690232_OptiLingoHindiAlphabet_v2_Opt2_041520-1-1002x1536-1.png" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/AugcSMYkrheLCZW8LNBf625Zs4mrB0eIbyJtuK55ZIA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by8zZC1yZW5kZXJp/bmctaGFja2VkLXRl/eHQtd2l0aC1zY3Jl/ZW4tZWZmZWN0cy10/ZWNobm9sb2dpY2Fs/LWdsaXRjaGVzXzIz/MjEwNC0xMDM1Mi5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
