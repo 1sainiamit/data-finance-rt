@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/2BBOimnTP2_x1YCFlowLQhGC1-lKinlmtJXvyhKmPcQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jOC5h/bGFteS5jb20vY29t/cC9NNENHUEgvaGFj/a2VkLWN5YmVyLXNl/Y3VyaXR5LWFuZC1v/bmxpbmUtZnJhdWQt/Y29uY2VwdC1tb2Jp/bGUtaGFja2VyLWFu/ZC1jcmltaW5hbC1N/NENHUEguanBn"
+        src="https://static.vecteezy.com/system/resources/previews/015/286/164/large_2x/abstract-word-signal-or-are-warned-that-it-has-been-hacked-by-viruses-malware-or-hackers-on-a-red-digital-background-vector.jpg"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,16 +22,16 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://t4.ftcdn.net/jpg/17/32/25/51/360_F_1732255115_V9H5mDKLIgARIdDfMQh2htqUAZiimX2M.jpg" alt="About" className="h-8 w-auto" />
+          <img src="https://media.istockphoto.com/id/1437997089/vector/indian-languages-word-cloud-vector-illustration.jpg?s=612x612&w=0&k=20&c=JWzmnXCUJj925PmLNc-1MIYhN19-sf8eAO7Onbl6paA=" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imagesvs.oneindia.com/img/2014/09/14-hindi-600.jpg" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/_63DwEuHKDe6NU0L6C0fbBnMughTi2fHTDV0cfg3oQw/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA2/MDA0MDg0Ni9waG90/by9wYWtpc3Rhbi1w/YWtpc3RhbmktZmxh/Zy10ZXh0aWxlLWNs/b3RoLWZhYnJpYy13/YXZpbmctb24tdGhl/LXRvcC1zdW5yaXNl/LW1pc3QtZm9nLmpw/Zz9zPTYxMng2MTIm/dz0wJms9MjAmYz1s/WncyWGxDM3BCdlpU/d1hla3hLeUZqNlBF/NHl6NGNKU3NvRk11/elZla0dnPQ" alt="Resources" className="h-8 w-auto" />
+          <img src="https://t4.ftcdn.net/jpg/17/32/25/51/360_F_1732255115_V9H5mDKLIgARIdDfMQh2htqUAZiimX2M.jpg" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/AugcSMYkrheLCZW8LNBf625Zs4mrB0eIbyJtuK55ZIA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by8zZC1yZW5kZXJp/bmctaGFja2VkLXRl/eHQtd2l0aC1zY3Jl/ZW4tZWZmZWN0cy10/ZWNobm9sb2dpY2Fs/LWdsaXRjaGVzXzIz/MjEwNC0xMDM1Mi5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imagesvs.oneindia.com/img/2014/09/14-hindi-600.jpg" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
