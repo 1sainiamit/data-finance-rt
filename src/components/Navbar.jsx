@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/Bd9q-Ntm68gaS_1G7E7GyVEUrV4oIoz9qlUbIEu28Gw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lbGVt/ZW50cy1yZXNpemVk/LmVudmF0b3VzZXJj/b250ZW50LmNvbS9l/bGVtZW50cy1jb3Zl/ci1pbWFnZXMvMzdk/NWI3OTctN2U1OS00/YjljLWE5OWMtYmVk/ZmNlZTQ4MmQ2P3c9/NDMzJmNmX2ZpdD1z/Y2FsZS1kb3duJnE9/ODUmZm9ybWF0PWF1/dG8mcz1kNzRkNTY3/YzJiY2Y2ZTlmY2U0/Y2EyMWRlNWU4ZDZi/OTRiYzMxZDg3YzJm/NzY5MTJhMDE0OWRj/NjQ1NWFmYzY1"
+        src="https://images.indianexpress.com/2019/09/hindi-diwas-gettyimages-616123470.jpg"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -25,13 +25,13 @@ const Navbar = () => {
           <img src="https://imgs.search.brave.com/P3I3XfYluahpKZ2r-wydk8ERghD7I4vA5mFL9zTT6DQ/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMud29uZGVyc2hh/cmUuY29tL3BkZmVs/ZW1lbnQvb2NyL3Vy/ZHUtc2FtcGxlLmpw/Zw" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/VozIglkiOeKWQPK1Lqg54Q_0Ll_FlOP4N6kyDDcOhFI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpEWXhPVE01/Wm1NdFptTTNOaTAw/WVdObExXSTNZamt0/TmpSbVpXSTFabUk1/WVRKa1hrRXlYa0Zx/Y0djQC5qcGc" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/VVoxwz9ESCMj3T8vtzRnSKGcgXnPwqclv_rbpxkNWzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhiLzNh/LzhkLzhiM2E4ZGRh/OWMxNmM2MjBmNjIw/NjllNzUzYzFhZDQ3/LmpwZw" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/TTgRmdJjfnlTc8kqeHv9SM5iUxmJxphU-wK4EUMRevY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HVTFNakF6/WWpJdE5URmlZeTAw/WkRRNExXRTVORFl0/TVdVNFlUQTBORFJt/TkdaalhrRXlYa0Zx/Y0djQC5qcGc" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/ffTrPN6zjUxIR1YaxeTKapA9Aw6T2u1-tBnOlguaUcA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiL2Yw/L2MxLzBiZjBjMTNm/NTBhZmZiNmY5Yzg2/NzIxY2E2NmVmMjNm/LmpwZw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/uUBQZ-ZSrD1SEbsiDkC7XdXzXD0eyeT054Vp15sNhJA/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pLnNz/dGF0aWMubmV0L01o/ekxBLmpwZw" alt="Blog" className="h-8 w-auto" />
+          <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/09/hindi-diwas-1568428091.jpg" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
