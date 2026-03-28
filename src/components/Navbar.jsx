@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/VVoxwz9ESCMj3T8vtzRnSKGcgXnPwqclv_rbpxkNWzU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzhiLzNh/LzhkLzhiM2E4ZGRh/OWMxNmM2MjBmNjIw/NjllNzUzYzFhZDQ3/LmpwZw"
+        src="https://imgs.search.brave.com/LjC9J-r1cNjz5Omj7W4LY0IeJYAPEjWCPMe5w5L9kCQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDYv/Mjc2LzExNS9zbWFs/bC9mYWJyaWMtdGV4/dHVyZS1vZi1jaGlu/YS1uYXRpb25hbC1m/bGFnLWZyZWUtcGhv/dG8uanBn"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,7 +22,7 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2019/09/hindi-diwas-1568428091.jpg" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/xsMomeIw0I3rlrfFjGUh7BCi1nZkct8hWiamFKnwRBc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/ODM3MzIzOC9waG90/by9jb21wdXRlci1z/eXN0ZW0taGFja2Vk/LXZpcnVzLXNvZnR3/YXJlLXNjcmVlbi5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/ZVQ4V0QwWmZEOFpY/N3VVaE9oSFhQRHZI/WU5PUzVmbzNPenl3/ZHZ4Wm1jUT0" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imgs.search.brave.com/P3I3XfYluahpKZ2r-wydk8ERghD7I4vA5mFL9zTT6DQ/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMud29uZGVyc2hh/cmUuY29tL3BkZmVs/ZW1lbnQvb2NyL3Vy/ZHUtc2FtcGxlLmpw/Zw" className="h-8 w-auto" />
