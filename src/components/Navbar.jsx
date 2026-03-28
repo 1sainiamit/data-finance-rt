@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/LjC9J-r1cNjz5Omj7W4LY0IeJYAPEjWCPMe5w5L9kCQ/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDYv/Mjc2LzExNS9zbWFs/bC9mYWJyaWMtdGV4/dHVyZS1vZi1jaGlu/YS1uYXRpb25hbC1m/bGFnLWZyZWUtcGhv/dG8uanBn"
+        src="https://imgs.search.brave.com/t6w1j91TS0ARCM6q-4DhckqJyu6nPcKt0btOzX6xEU8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE3/NTQ4MDA0Ni9waG90/by9tYW4taG9sZGlu/Zy1jaGluYXMtbmF0/aW9uYWwtZmxhZy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MHBuUkNZR3duUUpt/Nm1ycXd0RkNoRExy/SXpNN1pjX3QySXBM/N0tsemRGaz0"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -28,10 +28,10 @@ const Navbar = () => {
           <img src="https://imgs.search.brave.com/P3I3XfYluahpKZ2r-wydk8ERghD7I4vA5mFL9zTT6DQ/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMud29uZGVyc2hh/cmUuY29tL3BkZmVs/ZW1lbnQvb2NyL3Vy/ZHUtc2FtcGxlLmpw/Zw" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/ffTrPN6zjUxIR1YaxeTKapA9Aw6T2u1-tBnOlguaUcA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzBiL2Yw/L2MxLzBiZjBjMTNm/NTBhZmZiNmY5Yzg2/NzIxY2E2NmVmMjNm/LmpwZw" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/QIc9HDWYHqTB_XqK0MAN0-LtjERpmgIdapBmHSpmTjo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jOC5h/bGFteS5jb20vY29t/cC9KRjQ4MEEvaGFj/a2VyLWhhY2tlZC12/aWN0aW0tcGVycGV0/cmF0b3ItY29tcHV0/ZXItc2NhbS1yYW5z/b20td2FyZS10ZXJy/b3Jpc3QtSkY0ODBB/LmpwZw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://images.indianexpress.com/2019/09/hindi-diwas-gettyimages-616123470.jpg" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/h0X70r-xxcc4MGYhfegaJaFTWVQUUPaFkN51z05COG8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE4Lzc3LzIwLzEx/LzM2MF9GXzE4Nzcy/MDExMzdfemw3cWtJ/Q3ViaVNtdngwVDdW/ZHRia0JvMnZsZ2Fp/SU8uanBn" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
