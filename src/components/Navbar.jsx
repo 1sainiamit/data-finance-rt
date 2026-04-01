@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/ELxGzErMBGZHkD5lIVmwZ7Mb5jdSxVWImF1V1md1sew/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE3LzUzLzk5Lzk0/LzM2MF9GXzE3NTM5/OTk0MjJfUU5OcWMw/UHdwa2JCSlRPSkRG/REMxbFZpTGpGcW1Z/dXIuanBn"
+        src="https://imgs.search.brave.com/zI8mk4EIbKZkG0V4FOPWxccxaKpfZmOWS8YqpAzrKUE/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5jbm4uY29tL2Fw/aS92MS9pbWFnZXMv/c3RlbGxhci9wcm9k/LzE1MDIxODE1MzYx/MS0wOS1jbm5waG90/b3MtaXdvLWppbWEt/cmVzdHJpY3RlZC5q/cGc_cT13XzIwMDAs/aF8xMTI1LHhfMCx5/XzAsY19maWxsL2hf/NDQ3"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,16 +22,16 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/nbihTbA-Yi2JAWu9i0sbbFkzEqvuCP5Nkjppi0VXBDo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzcv/MDc3LzM4NC9zbWFs/bC9mbGFnLW9mLXRo/ZS1xaW5nLWR5bmFz/dHktY2hpbmEtbG9v/cC12aWRlby5qcGc" alt="About" className="h-8 w-auto" />
+          <img src="https://cdn.3dnames.co/previews/cd47/1000x1000/h/cd47hacker3dxx.webp" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/FWCzke2ivmCpbgfN9I_qV7mlIHMZXmqZf68cTulOyH4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM5/NjA2NTU4OS9waG90/by9mbGFncy1vZi10/aGUtcGVvcGxlcy1y/ZXB1YmxpYy1vZi1j/aGluYS1hbmQtaW5k/aWEuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUdDc1BDNUpo/eFd1TEx3MmFyTzhm/dnlyOXhkOTBzQ2I3/MFpaV0NjY1BLNlk9" className="h-8 w-auto" />
+          <img src="https://hewlett.org/wp-content/uploads/2019/07/cyber-hacker-hoodie-photo.jpg" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/gEFbTCMJaZ6zNC7PvlErMnX2yUysKnu7CSeA0N46-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYWNr/ZXItd2FudHMtdG8t/aGFjay1jeWJlcmNy/aW1lLWhhY2tlci13/YW50cy10by1oYWNr/LWN5YmVyY3JpbWUt/MzY1NzU5MDExLmpw/Zw" alt="Resources" className="h-8 w-auto" />
+          <img src="https://cdn.vectorstock.com/i/1000v/61/72/hacker-wordmark-symbol-set-vector-35916172.jpg" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/FpqEzJ2j3DbyZuR6C4OTJhdA2x2rBVINcHjh0TVK3F4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dHlwaW5nYmFiYS5j/b20vdHJhbnNsYXRv/ci9pbWFnZS9oaW5k/aS1sYW5ndWFnZS5q/cGc" alt="Blog" className="h-8 w-auto" />
+          <img src="https://avatars.githubusercontent.com/u/2513332?s=280&v=4" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
