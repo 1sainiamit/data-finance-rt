@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/t6w1j91TS0ARCM6q-4DhckqJyu6nPcKt0btOzX6xEU8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE3/NTQ4MDA0Ni9waG90/by9tYW4taG9sZGlu/Zy1jaGluYXMtbmF0/aW9uYWwtZmxhZy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/MHBuUkNZR3duUUpt/Nm1ycXd0RkNoRExy/SXpNN1pjX3QySXBM/N0tsemRGaz0"
+        src="https://imgs.search.brave.com/gwvRcF5VV8QJMjwrQK8iXd__FABa8ubUZX3vk2uIgAA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9wbHVz/LnVuc3BsYXNoLmNv/bS9wcmVtaXVtX3Bo/b3RvLTE2NzU4NjUz/OTM5ODgtNGVhMjBm/MDg0ZTgzP2ZtPWpw/ZyZxPTYwJnc9MzAw/MCZhdXRvPWZvcm1h/dCZmaXQ9Y3JvcCZp/eGxpYj1yYi00LjEu/MCZpeGlkPU0zd3hN/akEzZkRCOE1IeHpa/V0Z5WTJoOE9YeDhZ/MmhwYm1FbE1qQm1i/R0ZuZkdWdWZEQjhm/REI4Zkh3dw"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,16 +22,16 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/xsMomeIw0I3rlrfFjGUh7BCi1nZkct8hWiamFKnwRBc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMz/ODM3MzIzOC9waG90/by9jb21wdXRlci1z/eXN0ZW0taGFja2Vk/LXZpcnVzLXNvZnR3/YXJlLXNjcmVlbi5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/ZVQ4V0QwWmZEOFpY/N3VVaE9oSFhQRHZI/WU5PUzVmbzNPenl3/ZHZ4Wm1jUT0" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/nbihTbA-Yi2JAWu9i0sbbFkzEqvuCP5Nkjppi0VXBDo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzcv/MDc3LzM4NC9zbWFs/bC9mbGFnLW9mLXRo/ZS1xaW5nLWR5bmFz/dHktY2hpbmEtbG9v/cC12aWRlby5qcGc" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/P3I3XfYluahpKZ2r-wydk8ERghD7I4vA5mFL9zTT6DQ/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMud29uZGVyc2hh/cmUuY29tL3BkZmVs/ZW1lbnQvb2NyL3Vy/ZHUtc2FtcGxlLmpw/Zw" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/FWCzke2ivmCpbgfN9I_qV7mlIHMZXmqZf68cTulOyH4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM5/NjA2NTU4OS9waG90/by9mbGFncy1vZi10/aGUtcGVvcGxlcy1y/ZXB1YmxpYy1vZi1j/aGluYS1hbmQtaW5k/aWEuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUdDc1BDNUpo/eFd1TEx3MmFyTzhm/dnlyOXhkOTBzQ2I3/MFpaV0NjY1BLNlk9" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/QIc9HDWYHqTB_XqK0MAN0-LtjERpmgIdapBmHSpmTjo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jOC5h/bGFteS5jb20vY29t/cC9KRjQ4MEEvaGFj/a2VyLWhhY2tlZC12/aWN0aW0tcGVycGV0/cmF0b3ItY29tcHV0/ZXItc2NhbS1yYW5z/b20td2FyZS10ZXJy/b3Jpc3QtSkY0ODBB/LmpwZw" alt="Resources" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/gEFbTCMJaZ6zNC7PvlErMnX2yUysKnu7CSeA0N46-qc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9oYWNr/ZXItd2FudHMtdG8t/aGFjay1jeWJlcmNy/aW1lLWhhY2tlci13/YW50cy10by1oYWNr/LWN5YmVyY3JpbWUt/MzY1NzU5MDExLmpw/Zw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/h0X70r-xxcc4MGYhfegaJaFTWVQUUPaFkN51z05COG8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE4Lzc3LzIwLzEx/LzM2MF9GXzE4Nzcy/MDExMzdfemw3cWtJ/Q3ViaVNtdngwVDdW/ZHRia0JvMnZsZ2Fp/SU8uanBn" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/FpqEzJ2j3DbyZuR6C4OTJhdA2x2rBVINcHjh0TVK3F4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/dHlwaW5nYmFiYS5j/b20vdHJhbnNsYXRv/ci9pbWFnZS9oaW5k/aS1sYW5ndWFnZS5q/cGc" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
