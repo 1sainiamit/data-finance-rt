@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/QIc9HDWYHqTB_XqK0MAN0-LtjERpmgIdapBmHSpmTjo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9jOC5h/bGFteS5jb20vY29t/cC9KRjQ4MEEvaGFj/a2VyLWhhY2tlZC12/aWN0aW0tcGVycGV0/cmF0b3ItY29tcHV0/ZXItc2NhbS1yYW5z/b20td2FyZS10ZXJy/b3Jpc3QtSkY0ODBB/LmpwZw"
+        src="https://imgs.search.brave.com/DGOIZpcyulnauKOFA7sP2kcg_WmpeAmjbpVLEkPVOwc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NDYwNDI0NS9waG90/by9hLWNvbXB1dGVy/LXN5c3RlbS1oYWNr/ZWQtd2FybmluZy5q/cGc_Yj0xJnM9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVFKanVMVlhM/aU9ta1lEcFhvZXRP/RW5WVW5hNFBsXy0z/VGhaeVpNcVlFT2M9"
         alt="Logo"
         className="h-14 w-auto"
       />
@@ -22,7 +22,7 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/9fsxiPDJ1wHyY3GbUHcYR15rd4ymBKJz1Jt6fgOCU0E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90dWxh/LXJ1c3NpYS1oYWNr/ZWQtaW5zdGFncmFt/LXBob25lLWxhcHRv/cC1jb25jZXB0LTE4/NTMwNjMyMi5qcGc" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/yr0bXZvOkTqrpl5sT1iRFPQJmihKyAGDGHcmTSsyR2g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi95b3Ut/aGF2ZS1iZWVuLWhh/Y2tlZC1oYWNrZXIt/YXR0YWNrLWluZm9y/bWF0aW9uLW1lc3Nh/Z2Utc2NyZWVuLTE4/NDU2MTU0NC5qcGc" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imgs.search.brave.com/FXwLV_5qTav-T1vBF0BAF53l5yci3daJOeKCoh00Zrs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jb21w/dXRlci1oYWNrZWQt/MjA4ODkzNjkuanBn" className="h-8 w-auto" />
@@ -31,7 +31,7 @@ const Navbar = () => {
           <img src="https://imgs.search.brave.com/j1ccJ1ONjDGKoXdY-9tbisi2Bnct1wGsYObZnTVOQis/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM4Lzgw/LzM2LzM4ODAzNjNm/ZTE3NzgzZGYyZmQy/YzczODM2MzYyNDQ2/LmpwZw" alt="Resources" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/CiA6XsfXZMOO-WJ7XI8CahRMo-Bv9-QGmnPpPW8SYg8/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9iYW5n/bGEtbG92ZS1zbXMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE3LzEyL2Jlbmdh/bGktbG92ZS1zaGF5/YXJpLmpwZw" alt="Blog" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/eLgAlemH1qheT3WKtn5CDaiL3cpGN8AAaJ9mNrX0Eo8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9zaG93/aW5nLWhhY2tlZC1v/dmVybGF5LWN1dHRp/bmctYWNyb3NzLXNl/cnZlci1haXNsZS1y/YWNrcy1yZWQtY2ly/Y3VpdC10cmFjZXMt/YmluYXJ5LWRpZ2l0/cy1jeWJlcnNlY3Vy/aXR5LWRpZ2l0YWwt/Mzg4NjY5OTI4Lmpw/Zw" alt="Blog" className="h-8 w-auto" />
         </li>
       </ul>
 
