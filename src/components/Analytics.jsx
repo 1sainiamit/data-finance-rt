@@ -11,10 +11,9 @@ const Analytics = () => {
             Manage Data Analytics Centrally
           </h1>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. A
-            voluptates veritatis, vel sapiente iusto in maiores consequuntur
-            reprehenderit voluptatem et? Illo, animi commodi! Sapiente nam
-            mollitia officiis explicabo pariatur. Nostrum!
+            a;lshjd;lffja;lsdjfaksjdjfa hacked halsdjflkajsdfhqwernlwer
+            alkjdalfjalksjdf;lkhj
+            aldskjfa;lsdjfl;aksdjfasdfasdf
           </p>
           <button className="bg-black w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 text-[#00df9a]">
             Let's Go
