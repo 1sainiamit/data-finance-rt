@@ -9,7 +9,7 @@ const Hero = () => {
           GROWING WITH DATA ANALYTICS hacked the pwned
         </p>
         <h1 className="md:text-7xl sm:text-6xl font-bold md:py-6">
-          Grow with data.
+          hacked
         </h1>
         <div className="flex justify-center">
           <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">
