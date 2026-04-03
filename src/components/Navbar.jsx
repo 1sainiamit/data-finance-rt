@@ -22,10 +22,10 @@ const Navbar = () => {
       {/* Desktop Menu */}
       <ul className="hidden md:flex items-center">
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/IS2sK9CvIviEs2sBqGCWwJv-CXXaoZ7vN5iuKgSIAr4/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMjE3/MzA2MzMwNi9waG90/by9pbmRpYW4tc2No/b29sYm95LWluLWNs/YXNzcm9vbS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9WFRw/eHpYZmFnU0ZLYlV3/WnNKM0FBRFQ3d1BO/Q3VOU2RTZzFsVUdS/R1hEbz0" alt="About" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/9fsxiPDJ1wHyY3GbUHcYR15rd4ymBKJz1Jt6fgOCU0E/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi90dWxh/LXJ1c3NpYS1oYWNr/ZWQtaW5zdGFncmFt/LXBob25lLWxhcHRv/cC1jb25jZXB0LTE4/NTMwNjMyMi5qcGc" alt="About" className="h-8 w-auto" />
         </li>
         <li className="p-4">
-          <img src="https://imgs.search.brave.com/WXNAHdzAFwG2oJzYFFqE068gsPQaIOzWYA_84QYcumg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTM5/ODgwNzYwMy92ZWN0/b3IvaW5kaWFuLWxh/bmd1YWdlcy13b3Jk/LWNsb3VkLXZlY3Rv/ci1pbGx1c3RyYXRp/b24uanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPXA1aFFKclcy/SE1jeV9DWmRBdmFf/QUZ1cG5IUVhEbVpV/ODF3dmJZSE9aeWs9" className="h-8 w-auto" />
+          <img src="https://imgs.search.brave.com/FXwLV_5qTav-T1vBF0BAF53l5yci3daJOeKCoh00Zrs/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9jb21w/dXRlci1oYWNrZWQt/MjA4ODkzNjkuanBn" className="h-8 w-auto" />
         </li>
         <li className="p-4">
           <img src="https://imgs.search.brave.com/j1ccJ1ONjDGKoXdY-9tbisi2Bnct1wGsYObZnTVOQis/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM4Lzgw/LzM2LzM4ODAzNjNm/ZTE3NzgzZGYyZmQy/YzczODM2MzYyNDQ2/LmpwZw" alt="Resources" className="h-8 w-auto" />
@@ -54,7 +54,7 @@ const Navbar = () => {
           className="h-14 m-4"
         />
 
-       <ul className="uppercase p-4"> <li className="p-4 border-b border-b-gray-600">About</li> <li className="p-4 border-b border-b-gray-600">Company</li> <li className="p-4 border-b border-b-gray-600">Resources</li> <li className="p-4 border-b border-b-gray-600">Pakistan</li> <li className="p-4">Contact</li> </ul>
+       <ul className="uppercase p-4"> <li className="p-4 border-b border-b-gray-600">Aboutasdljhfhalsdjf</li> <li className="p-4 border-b border-b-gray-600">Companyla;jshd;flhjasldjhf</li> <li className="p-4 border-b border-b-gray-600">Resources</li> <li className="p-4 border-b border-b-gray-600">Pakistan</li> <li className="p-4">Contact</li> </ul>
       </div>
     </nav>
   );
