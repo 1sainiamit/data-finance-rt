@@ -14,7 +14,7 @@ const Navbar = () => {
       
       {/* Main Logo */}
       <img
-        src="https://imgs.search.brave.com/DGOIZpcyulnauKOFA7sP2kcg_WmpeAmjbpVLEkPVOwc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTE0/NDYwNDI0NS9waG90/by9hLWNvbXB1dGVy/LXN5c3RlbS1oYWNr/ZWQtd2FybmluZy5q/cGc_Yj0xJnM9NjEy/eDYxMiZ3PTAmaz0y/MCZjPVFKanVMVlhM/aU9ta1lEcFhvZXRP/RW5WVW5hNFBsXy0z/VGhaeVpNcVlFT2M9"
+        src="https://imgs.search.brave.com/cD1xejI3zKY_-X38hw1yHWer4sH2ulD2uvKZf5TtYtI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by8zZC1yZW5kZXJp/bmctaGFja2VkLXRl/eHQtd2l0aC1zY3Jl/ZW4tZWZmZWN0cy10/ZWNobm9sb2dpY2Fs/LWdsaXRjaGVzXzIz/MjEwNC0xMDc5MC5q/cGc_c2VtdD1haXNf/aHlicmlkJnc9NzQw/JnE9ODA"
         alt="Logo"
         className="h-14 w-auto"
       />
