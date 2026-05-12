@@ -54,7 +54,7 @@ const Navbar = () => {
           className="h-14 m-4"
         />
 
-       <ul className="uppercase p-4"> <li className="p-4 border-b border-b-gray-600">Aboutasdljhasdfasdfasdfasdfasfhalsdjf</li> <li className="p-4 border-b border-b-gray-600">Coampanyla;jshd;flhjasldjhf</li> <li className="p-4 border-b border-b-gray-600">Resources</li> <li className="p-4 border-b border-b-gray-600">Pakistan</li> <li className="p-4">Contact</li> </ul>
+       <ul className="uppercase p-4"> <li className="p-4 border-b border-b-gray-600">About Page to test defacement</li> <li className="p-4 border-b border-b-gray-600">Coampanyla;jshd;flhjasldjhf</li> <li className="p-4 border-b border-b-gray-600">Resources</li> <li className="p-4 border-b border-b-gray-600">Pakistan</li> <li className="p-4">Contact</li> </ul>
       </div>
     </nav>
   );
